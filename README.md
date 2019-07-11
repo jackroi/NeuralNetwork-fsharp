@@ -28,7 +28,7 @@
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
+- [TODO](./TODO.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -45,7 +45,7 @@ You should have a working F# development enviroment (follow [this](https://fshar
 
 
 ## 🎈 Usage <a name="usage"></a>
-The usage of the library is simple, all the code is well documented and there is an [example](../NeuralNetwork-fsharp/Main.fs) that solves the XOR problem.
+The usage of the library is simple, all the code is well documented and there is an [example](./NeuralNetwork-fsharp/Main.fs) that solves the XOR problem.
 
 
 ## ⛏️ Built Using <a name="built_using"></a>
