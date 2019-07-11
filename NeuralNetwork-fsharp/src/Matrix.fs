@@ -215,7 +215,7 @@ let transpose (m : matrix) : matrix =
 (*
  * print: print the given matrix
  * - m: the input matrix
- * return a new matrix
+ * return the input matrix
 *)
 let print (m : matrix) : matrix = 
     let (Matrix (rows, cols, data)) = m
