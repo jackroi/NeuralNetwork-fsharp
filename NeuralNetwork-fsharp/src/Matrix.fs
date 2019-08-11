@@ -57,7 +57,7 @@ let map (fn : double -> double) (m : matrix) : matrix =
     Matrix (rows, cols, new_data)
 
 (*
- * mapi: build a new array whose elements are the results of applying the given function to each of the elements of the array;
+ * mapi: build a new matrix whose elements are the results of applying the given function to each of the elements of the matrix (with row and column index)
  * the integer index passed to the function indicates the index of element being transformed
  * - fn (double -> int -> int -> double): the function to transform elements and their indices
  * - m: the input matrix
