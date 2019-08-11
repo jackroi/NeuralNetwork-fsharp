@@ -107,7 +107,7 @@ let fromArray (arr : double[]) : matrix =
 
 (*
  * toArray: build a new double array by flattening the matrix
- * - arr: the input matrix
+ * - m: the input matrix
  * return an array of double
 *)
 let toArray (m : matrix) : double[] =
